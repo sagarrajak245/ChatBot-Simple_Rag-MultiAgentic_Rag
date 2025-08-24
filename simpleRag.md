@@ -11,6 +11,9 @@ Think of RAG as having a super-smart research assistant that can:
 2. Find the most relevant information
 3. Generate a natural, conversational answer based on what it found
 
+<img width="1048" height="611" alt="image" src="https://github.com/user-attachments/assets/257d2103-38e9-44fe-82f3-ed0c58128351" />
+
+
 ## 🏗️ How This RAG System Works
 
 ```
