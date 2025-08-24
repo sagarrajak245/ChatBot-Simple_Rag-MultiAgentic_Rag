@@ -131,6 +131,31 @@ pip install streamlit langchain langgraph langchain-groq langchain-huggingface f
 streamlit run enhanced_rag.py
 ```
 
+Troubleshooting
+Common Issues
+
+API Key Error: Ensure GROQ_API_KEY in .env file
+Memory Issues: Reduce chunk size or document count
+Slow Processing: Lower retrieval count or use smaller models
+Poor Answers: Adjust similarity threshold or chunk overlap
+
+Performance Tips
+
+Use SSD storage for large document collections
+Monitor RAM usage during processing
+Consider GPU acceleration for embeddings
+Implement caching for repeated queries
+
+API Key Help
+If you encounter API issues:
+
+Groq: Check rate limits and key validity at console.groq.com
+OpenAI: Verify billing and usage at platform.openai.com
+Anthropic: Check credits at console.anthropic.com
+Ensure your .env file is in the correct directory (root of project)
+Restart your application after updating .env
+
+
 ## Common Technologies
 
 ### Core Stack
