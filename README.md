@@ -2,13 +2,14 @@
 
 A comprehensive collection of Retrieval Augmented Generation (RAG) implementations showcasing different approaches to document-based question answering.
 
-## Repository Overview
+## Quick Navigation
 
-This repository contains three distinct RAG implementations, each demonstrating different architectural approaches and complexity levels:
+📂 **Individual System Documentation:**
+- [Basic RAG Chatbot](./basic-rag/README.md) - Core RAG concepts and implementation
+- [Multi-Agent RAG System](./multi-agent-rag/README.md) - Agent collaboration and orchestration  
+- [Enhanced Multi-Document RAG](./enhanced-multi-doc-rag/README.md) - Production-ready multi-format system
 
-1. **Basic RAG Chatbot** - Single-agent system with Groq & FAISS
-2. **Multi-Agent RAG System** - Collaborative three-agent workflow
-3. **Enhanced Multi-Document RAG** - Advanced multi-format document processing
+📋 **System Comparison Table** ⬇️
 
 ## What is RAG?
 
@@ -29,6 +30,8 @@ This repository contains three distinct RAG implementations, each demonstrating 
 | **Best For** | Learning RAG basics | Understanding agent collaboration | Production applications |
 
 ## 1. Basic RAG Chatbot
+
+📚 **[View Complete Documentation →](./basic-rag/README.md)**
 
 ### Overview
 A straightforward RAG implementation perfect for understanding core concepts.
@@ -56,6 +59,8 @@ streamlit run basic_rag.py
 ```
 
 ## 2. Multi-Agent RAG System
+
+📚 **[View Complete Documentation →](./multi-agent-rag/README.md)**
 
 ### Overview
 Demonstrates agent collaboration with specialized roles for research, answering, and critique.
@@ -89,6 +94,8 @@ streamlit run multi_agent_rag.py
 ```
 
 ## 3. Enhanced Multi-Document RAG
+
+📚 **[View Complete Documentation →](./enhanced-multi-doc-rag/README.md)**
 
 ### Overview
 Production-ready system handling multiple document formats with advanced processing.
