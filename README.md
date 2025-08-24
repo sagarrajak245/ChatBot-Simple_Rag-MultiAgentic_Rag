@@ -5,7 +5,7 @@ A comprehensive collection of Retrieval Augmented Generation (RAG) implementatio
 ## Quick Navigation
 
 📂 **Individual System Documentation:**
-- [Basic RAG Chatbot](./basic-rag/README.md) - Core RAG concepts and implementation
+- [Basic RAG Chatbot](https://github.com/sagarrajak245/ChatBot-Simple_Rag-MultiAgentic_Rag/blob/main/simpleRag.md) - Core RAG concepts and implementation
 - [Multi-Agent RAG System](./multi-agent-rag/README.md) - Agent collaboration and orchestration  
 - [Enhanced Multi-Document RAG](./enhanced-multi-doc-rag/README.md) - Production-ready multi-format system
 
