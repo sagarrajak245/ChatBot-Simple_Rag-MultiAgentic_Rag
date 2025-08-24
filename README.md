@@ -13,7 +13,7 @@ Build AI systems that answer questions from your documents. Three ready-to-use i
 📋 **System Comparison Table** ⬇️
 
 ## What is RAG?  
-- [Medium RAg DOC]([https://github.com/sagarrajak245/ChatBot-Simple_Rag-MultiAgentic_Rag/blob/main/simpleRag.md](https://netraneupane.medium.com/retrieval-augmented-generation-rag-26c924ad8181))
+- [Medium RAg DOC]((https://netraneupane.medium.com/retrieval-augmented-generation-rag-26c924ad8181))
 - [AWS RAg DOC](https://aws.amazon.com/what-is/retrieval-augmented-generation)
 
 
