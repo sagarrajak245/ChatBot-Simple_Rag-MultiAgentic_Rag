@@ -1,6 +1,7 @@
 # RAG Systems Repository
 
 A comprehensive collection of Retrieval Augmented Generation (RAG) implementations showcasing different approaches to document-based question answering.
+Build AI systems that answer questions from your documents. Three ready-to-use implementations: upload PDFs and get instant answers (Basic), collaborate with specialized AI agents for better responses (Multi-Agent), or process multiple file types with production features (Enhanced). Each system includes complete setup guides and runs locally with Streamlit.
 
 ## Quick Navigation
 
